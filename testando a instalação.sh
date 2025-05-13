@@ -1,0 +1,1 @@
+sudo docker container run hello-world 
